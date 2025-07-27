@@ -1,0 +1,12 @@
+react is a library of javascript used to make our work simple.
+
+we can install react by :-
+
+1. npx create-react-app 01basicreact (this method take lot of time)
+2. npm create vite@latest (this method is fast)
+
+in these , package.json is there where the scripts are present which are used to run the project
+==> npm run dev is used to run the vite project.
+
+
+  
