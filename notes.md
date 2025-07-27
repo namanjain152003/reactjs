@@ -9,4 +9,4 @@ in these , package.json is there where the scripts are present which are used to
 ==> npm run dev is used to run the vite project.
 
 
-  
+  jsx has ability to return only one element so we can make <> </> to return multiple elements.
