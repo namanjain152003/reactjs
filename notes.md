@@ -15,3 +15,14 @@ in these , package.json is there where the scripts are present which are used to
   files name must be capital as well
   
   to use javascriptvariable inside the return in react use {variable name}.
+
+  HOOKS:
+  these are used to update and change state...
+
+  we have to import hooks like
+  import {useState} from 'react'
+
+  after that in function :-
+  
+  const/let [counter,setCounter]=useState(15)
+  
