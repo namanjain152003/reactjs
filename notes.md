@@ -10,3 +10,7 @@ in these , package.json is there where the scripts are present which are used to
 
 
   jsx has ability to return only one element so we can make <> </> to return multiple elements.
+
+  functions name must me start with capital letter
+  files name must be capital as well
+  
