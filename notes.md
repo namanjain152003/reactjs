@@ -26,3 +26,5 @@ in these , package.json is there where the scripts are present which are used to
   
   const/let [counter,setCounter]=useState(15)
   
+
+  props are used to increase the code reusability in the react...
